@@ -1,0 +1,25 @@
+{
+  "name": "pw2-aula-github",
+  "version": "1.0.0",
+  "description": "Aula de pw2 - introdução ao github.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristianocorrea3/pw2-aula-github.git"
+  },
+  "keywords": [
+    "gti",
+    "gtihub",
+    "pw2",
+    "etec"
+  ],
+  "author": "Cristiano Correa de Moraes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cristianocorrea3/pw2-aula-github/issues"
+  },
+  "homepage": "https://github.com/cristianocorrea3/pw2-aula-github#readme"
+}
